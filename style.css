@@ -24,7 +24,8 @@ p {
 .container {
     border-radius: 20px;
     padding: 20px;
-    width: 350px;
+    width: 450px;
+    height: 100vh;
     text-align: center;
     background-color: rgba(0, 0, 0, 0.1);
 }
